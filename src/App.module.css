@@ -1,0 +1,30 @@
+* {
+  font-family: 'Courier Prime', monospace;
+}
+
+.header{
+  margin: 2em 4em;
+  font-weight: bolder;
+}
+
+.content{
+  margin: 8em 4em;
+  display: flex;
+  justify-content: space-around;
+}
+
+.description{
+  margin: 0em 0em 0em 4em;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 1em 2em;
+}
+
+.footer {
+  text-align: center;
+}
